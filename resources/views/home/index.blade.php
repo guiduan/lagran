@@ -74,7 +74,7 @@
                             <td>1</td>
                             <td>第一节</td>
                             <td>录制中</td>
-                            <td><a href="http://l.lagran.cc/player?url=http://l.lagran.cc/v/bgm/index.m3u8"
+                            <td><a href="{{route('home.index')}}/player?url=http://l.lagran.cc/v/bgm/index.m3u8"
                                    target="_blank" class="button">点击播放</a></td>
                         </tr>
                         <tr>
@@ -102,25 +102,25 @@
                         <tr>
                             <td>1</td>
                             <td>某快速路工程项目投标文件技术部分（部分内容）</td>
-                            <td><a href="http://l.lagran.cc/reader/#../file/get?id=01&type=pdf"
+                            <td><a href="{{route('home.index')}}/reader/#../file/get?id=01&type=pdf"
                                    target="_blank" class="button">点击查看</a></td>
                         </tr>
                         <tr>
                             <td>2</td>
                             <td>某新建工厂（包含厂房和宿舍）项目投标文件技术部分（部分内容）</td>
-                            <td><a href="http://l.lagran.cc/reader/#../file/get?id=02&type=pdf"
+                            <td><a href="{{route('home.index')}}/reader/#../file/get?id=02&type=pdf"
                                    target="_blank" class="button">点击查看</a></td>
                         </tr>
                         <tr>
                             <td>3</td>
                             <td>某医院改造项目投标文件技术部分（部分内容）</td>
-                            <td><a href="http://l.lagran.cc/reader/#../file/get?id=03&type=pdf"
+                            <td><a href="{{route('home.index')}}/reader/#../file/get?id=03&type=pdf"
                                    target="_blank" class="button">点击查看</a></td>
                         </tr>
                         <tr>
                             <td>4</td>
                             <td>某污水处理厂二期扩建及一期提标工程投标文件技术部分（部分内容）</td>
-                            <td><a href="http://l.lagran.cc/reader/#../file/get?id=04&type=pdf"
+                            <td><a href="{{route('home.index')}}/reader/#../file/get?id=04&type=pdf"
                                    target="_blank" class="button">点击查看</a></td>
                         </tr>
                         </tbody>
