@@ -49,7 +49,7 @@
         <!-- Intro -->
         <article id="intro">
             <h2 class="major">{{__('简介')}}</h2>
-            <span class="image main"><img src="images/pic01.jpg" alt=""/></span>
+            <span class="image main"><img src="{{asset('images/pic03.jpg')}}" alt=""/></span>
             <p>{{__('拉格朗工作室（Lagrans Studio）成立于2017年6月1日，是一个专注于工程建设行业执业资格考试教育培训、技术标（或施工组织设计、施工方案等）编写以及提供工程造价咨询和相关专业人力资源服务的工作室。我们一贯秉持“客户至上、服务第一”的理念宗旨，力求为广大工程建设行业企事业单位、个人提供最专业、最便捷、最全面的服务。')}}</p>
             <p>{{__('在这里，我们将展示部分工作室的')}}<a href="#work">{{__('作品')}}</a>{{__('给大家。')}}</p>
         </article>
