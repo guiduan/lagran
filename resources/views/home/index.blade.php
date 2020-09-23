@@ -102,7 +102,7 @@
                         <tr>
                             <td>1</td>
                             <td>某快速路工程项目投标文件技术部分（部分内容）</td>
-                            <td><a href="{{route('home.index')}}/reader/#../file/get?id=01&type=pdf}}"
+                            <td><a href="{{route('home.index')}}/reader/#../file/get?id=01&type=pdf"
                                    target="_blank" class="button">点击查看</a></td>
                         </tr>
                         <tr>
