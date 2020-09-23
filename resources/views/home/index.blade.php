@@ -74,7 +74,7 @@
                             <td>1</td>
                             <td>第一节</td>
                             <td>录制中</td>
-                            <td><a href="{{route('home.index')}}/player?url={{route('home.index')}}/v/bgm/index.m3u8"
+                            <td><a href="{{route('home.index')}}/player?url={{route('home.index')}}/v/bgm1/index.m3u8"
                                    target="_blank" class="button">点击播放</a></td>
                         </tr>
                         <tr>
