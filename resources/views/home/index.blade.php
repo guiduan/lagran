@@ -58,7 +58,7 @@
         <article id="work">
             <h2 class="major">作品</h2>
             <section>
-                <h3 class="major">视频教程 - 2020一级建造师（市政实务）</h3>
+                <h3 class="major">视频教程 - 2021一级建造师（市政实务）</h3>
                 <div class="table-wrapper">
                     <table>
                         <thead>
